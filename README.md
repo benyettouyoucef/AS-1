@@ -1,6 +1,6 @@
-# People : Pandav2 aka David Panou | Youcef Benyettou
-
 # Organization : UPMC - MLIA Lab
+
+### People : Pandav2 aka David Panou | Youcef Benyettou
 
 ## This repository provide several in depth tutorials of going through the following subject 
 
@@ -8,4 +8,4 @@
 2. Mini-batch, train/test Criterion implementation
 3. To be announced
 
-[Simple LSTM Network](./pic/lstm.png)
+![alt text](./pic/lstm.png "Simple LSTM Architecture")
