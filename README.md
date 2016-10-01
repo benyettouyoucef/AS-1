@@ -4,7 +4,7 @@
 
 ## This repository provide several in depth tutorials of going through the following subjects
 
-1. [Simple Neural Network with Gradient Descent training and Introduction to LUA](/Users/david/Documents/Master/M2/AS/notebooks/An Introduction Guide to Torch.ipynb)
+1. [Simple Neural Network with Gradient Descent training and Introduction to LUA](./notebooks/An Introduction Guide to Torch.ipynb)
 2. Mini-batch, train/test Criterion implementation
 3. To be announced
 
