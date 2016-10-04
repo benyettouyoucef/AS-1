@@ -1,0 +1,17 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Standard Gradient Descent Techniques}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Stochastic Gradient Formalization}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Batch Gradient Descent}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{Stochastic Gradient Descent}{9}{0}{2}
+\beamer@subsectionintoc {2}{4}{Mini-batch Gradient Descent}{10}{0}{2}
+\beamer@sectionintoc {3}{More in-depth Gradient Descent Procedures}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Momentum}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Nesterov Accelerated Gradient}{16}{0}{3}
+\beamer@sectionintoc {4}{Automated Learning Rate Selection}{18}{0}{4}
+\beamer@subsectionintoc {4}{1}{Introduction}{19}{0}{4}
+\beamer@subsectionintoc {4}{2}{AdaGrad}{20}{0}{4}
+\beamer@subsectionintoc {4}{3}{AdaDelta}{21}{0}{4}
+\beamer@subsectionintoc {4}{4}{RMSprop}{22}{0}{4}
+\beamer@subsectionintoc {4}{5}{Adam}{23}{0}{4}
+\beamer@sectionintoc {5}{Annex}{24}{0}{5}
