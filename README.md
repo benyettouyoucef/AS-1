@@ -5,9 +5,9 @@
 ## This repository provide several in depth tutorials of going through the following subjects
 
 1. [Introduction to Torch Deep Learning Framework](./notebooks/An Introduction Guide to Torch - TME1.ipynb)
-2. [Mini-batch, train/test Criterion implementation](./notebooks/MiniBatch Training and Criterion Implementation - TME 2.ipynb)
-3. To be announced
-
+2. [Mini-batch, train/test Criterion implementation](./tme3/Mini-Batch - Train-Test Criterion implementation - TME2.ipynb)
+3. [Non Linearity](./tme4/Non Linearity - TME 3.ipynb)
+4. [Criterion Module Implementation](./tme5/Criterion and Module Implementation - TME4.ipynb)
 ---
 
 _Hey, this is a cool architecture isn't it?!_
