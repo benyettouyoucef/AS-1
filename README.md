@@ -9,8 +9,8 @@
 3. [Non Linearity](./tme4/Non Linearity - TME 3.ipynb)
 4. [Criterion Module Implementation on Torch](./tme5/Criterion and Module Implementation - TME4.ipynb)
 5. [Graph Based Networks]()
-    ** [Main - Beyond sequential : NNGraph usage](./tme6/Graph Shaped Modules -- NNGraphs.ipynb)
-    ** [Bonus - Highway Neural Network Implementation](./tme6/Highway Neural Network implementation.ipynb)
+    * [Main - Beyond sequential : NNGraph usage](./tme6/Graph Shaped Modules -- NNGraphs.ipynb)
+    * [Bonus - Highway Neural Network Implementation](./tme6/Highway Neural Network implementation.ipynb)
 6. [Graph Based Models and Recurrent Neural Networks](./tme7/Recurrent Neural Networks.ipynb)
 7. [Upcoming](www.google.com)
 
